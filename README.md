@@ -16,6 +16,12 @@ On each turn:
 - If the cards do not match, both cards are returned to their initial hidden state
 - The game ends once all cards have been correctly matched.
 
+
+## Screenshots:
+![My image](https://github.com/zhenghaohe/fend-project-memory-game/blob/master/screenshots/screenshot1.png)
+![My image](https://github.com/zhenghaohe/fend-project-memory-game/blob/master/screenshots/screenshot2.png)
+
+
 ## Resources used to create the game:
 
 ### Array shuffle:
